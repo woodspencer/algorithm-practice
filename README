@@ -1,0 +1,15 @@
+Be sure to compile with -lm if you're using gcc:
+gcc -lm ~/numseq.c
+
+You may use this code exactly as is unless it is
+for homework you were supposed to do on your own
+unless you just use this as an example. This means you Bob.
+
+What this code is:
+
+Written in C, it is my practice in identifying and
+reproducing number sequences (algorithms).
+
+Created by: Spencer Wood
+
+
